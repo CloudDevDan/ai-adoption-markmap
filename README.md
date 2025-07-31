@@ -18,7 +18,6 @@ Explore my other related projects:
 
 - [🗺️ Dan’s Azure CAF Markmap](https://github.com/CloudDevDan/azure-caf-markmap)
 - [🗺️ Dan’s Azure WAF Markmap](https://github.com/CloudDevDan/azure-waf-markmap)
-<!-- - [🗺️ Dan’s Microsoft AI Adoption Markmap](https://github.com/CloudDevDan/ai-adoption-markmap) -->
 - [🗺️ Dan’s Microsoft App Modernization Framework Markmap](https://github.com/CloudDevDan/app-modernization-markmap)
 - [🧠 Dan’s AI Terminology Tracker](https://github.com/CloudDevDan/dans-ai-terminology-tracker)
 - [☁️ Dan’s Blog](https://daniel.mcloughlin.cloud/)
