@@ -18,6 +18,8 @@ Explore my other related projects:
 
 - [🗺️ Dan’s Azure CAF Markmap](https://github.com/CloudDevDan/azure-caf-markmap)
 - [🗺️ Dan’s Azure WAF Markmap](https://github.com/CloudDevDan/azure-waf-markmap)
+<!-- - [🗺️ Dan’s Microsoft AI Adoption Markmap](https://github.com/CloudDevDan/ai-adoption-markmap) -->
+- [🗺️ Dan’s Microsoft App Modernization Framework Markmap](https://github.com/CloudDevDan/app-modernization-markmap)
 - [🧠 Dan’s AI Terminology Tracker](https://github.com/CloudDevDan/dans-ai-terminology-tracker)
 - [☁️ Dan’s Blog](https://daniel.mcloughlin.cloud/)
 - [☁️ Beginner To Builder with Azure AI Foundry](https://daniel.mcloughlin.cloud/series/azureai)
@@ -65,10 +67,10 @@ By making this project open, I hope others can benefit from this format too - wh
 
 ### Screenshots
 <p align="center">
-  <img src="./img/overview.jpg" alt="Tracker Screenshot" width="800" />
+  <img src="./img/overview.png" alt="Tracker Screenshot" width="800" />
 </p>
 <p align="center">
-  <img src="./img/expanded.jpg" alt="Tracker Screenshot - Expanded Nodes" width="800" />
+  <img src="./img/expanded.png" alt="Tracker Screenshot - Expanded Nodes" width="800" />
 </p>
 
 ---
